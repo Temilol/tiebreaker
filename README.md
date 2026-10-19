@@ -169,6 +169,10 @@ Generates sub-options for branching into a chosen option.
 
 ## 🌐 Deployment
 
+### Live App
+
+The app is currently deployed at: https://tiebreaker-f4hb.onrender.com/
+
 ### Deploy to Render (Free Tier)
 
 1. **Create a Render account** at [render.com](https://render.com)
